@@ -1,11 +1,10 @@
-### 呀！hello 👋
-### 这个GitHub没多少东西，请见谅！
+### 呀！hello ，欢迎来到我的GitHub。
 
 ✨STAR
 ---
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=qingchenhh&show_icons=true&theme=tokyonight)
 
-😄Visits
+😄Visitor
 ---
 ![Visitor Count](https://profile-counter.glitch.me/{qingchenhh}/count.svg)
 
