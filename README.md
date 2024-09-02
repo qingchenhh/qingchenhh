@@ -1,16 +1,6 @@
 ### 呀！hello ，欢迎来到我的GitHub。
 
-✨STAR
----
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=qingchenhh&show_icons=true&theme=tokyonight)
-
-😄Visitor
----
-![Visitor Count](https://profile-counter.glitch.me/{qingchenhh}/count.svg)
-
-⚡Language
----
-![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=qingchenhh&layout=compact&theme=tokyonight)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=qingchenhh&show_icons=true&include_all_commits=true&count_private=true" />
 
 
 
